@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663906381179",
+    "project_id": "woop-2d115",
+    "storage_bucket": "woop-2d115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663906381179:android:ab62a6283f24cfc82b21de",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TNaiWR7p_Uz9yWxznSj5ajJDVALC_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663906381179:android:8c4a2321769ccb852b21de",
+        "android_client_info": {
+          "package_name": "com.example.woop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TNaiWR7p_Uz9yWxznSj5ajJDVALC_pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
